@@ -7,5 +7,3 @@ df = pd.read_csv("data/estadistica_datos.csv")
 
 print(df.head())     
 print(df.columns)    
-
-
