@@ -27,20 +27,22 @@ Se utilizó un enfoque basado en el ciclo de ciencia de datos:
 
 
 ## 👥 Roles del Equipo
-- **Data Scientist**: [Nombre] – Limpieza de datos y modelado.
-- **Data Analyst**: [Nombre] – Análisis exploratorio y visualizaciones.
-- **Project Manager**: [Nombre] – Organización del trabajo y presentación.
-*(Puedes ajustar según sea un trabajo individual o grupal)*
+- **Data Scientist**: [Katerine Ramos] – Desarrollar modelos predictivos y aplicar machine learning.
+- **Project Manager**: [Masiel Rangel] – Coordinar el equipo y asegurar cumplimiento de tiempos y objetivos.
+- **Data Analyst**: [Desiret Arroyo] – Analizar y visualizar datos para responder preguntas del negocio.
+- **BI Analyst**: [Maria Ferrer] – Diseñar dashboards e informes comprensibles y útiles para la toma de decisiones.
+- **Data Engineer**: [Cinthya Lara] – Crear y mantener pipelines e infraestructuras de datos.
+
 
 ## 🧭 Pasos Realizados
-1. Carga y exploración inicial del dataset.
-2. Limpieza y transformación de datos:
+
+1. Carga, limpieza y transformación de datos:
    - Eliminación de valores nulos.
    - Conversión de variables categóricas.
-3. Análisis exploratorio:
+2. Análisis exploratorio:
    - Gráficos y estadísticas descriptivas.
    - Identificación de correlaciones.
-4. Modelado :
+3. Modelado :
    - Selección de modelo.
    - Entrenamiento y validación.
-5. Conclusiones basadas en los hallazgos.
+4. Conclusiones basadas en los hallazgos.
