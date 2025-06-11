@@ -1,0 +1,8 @@
+# Instalación de librerías necesarias
+ pip install
+ pandas 
+ numpy 
+ matplotlib
+ seaborn 
+ scikit-learn 
+ openpyxl
