@@ -1,0 +1,14 @@
+# Instalación de librerías necesarias
+ Pip  install:
+ Pandas 
+ Numpy 
+ Matplotlib
+ Seaborn 
+ Scikit-learn 
+ Openpyxl
+ Geopandas
+ Plotly
+ Ipywidgets
+ Folium
+ Xgboots
+ Missingno
