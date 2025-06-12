@@ -10,3 +10,5 @@
  Plotly
  Ipywidgets
  Folium
+ Xgboots
+ Missingno
